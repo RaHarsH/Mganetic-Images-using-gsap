@@ -4,6 +4,7 @@ body {
   text-align: center;
 }
 .App {
+  margin-top: 600px;
   height: 100vw;
   color: #fff;
   display: flex;
